@@ -1,0 +1,1102 @@
+Employee_Id,Department,Education,Gender,No_of_trainings,Age,length_of_service,awards_won,avg_training_score,is_promoted
+1,Sales & Marketing,Master's & above,Male,1,35,8,0,49,0
+2,Operations,Bachelor's,Female,1,30,4,1,60,0
+3,Sales & Marketing,Bachelor's,Male,1,34,7,0,50,0
+4,Sales & Marketing,Bachelor's,Male,2,39,10,0,50,0
+5,Technology,Bachelor's,Male,1,45,2,1,73,0
+6,Analytics,Bachelor's,Female,2,31,7,1,85,0
+7,Operations,Bachelor's,Male,1,31,5,0,59,0
+8,Operations,Master's & above,Male,1,33,6,0,63,0
+9,Analytics,Bachelor's,Male,1,28,5,0,83,0
+10,Sales & Marketing,Master's & above,Female,1,32,5,0,54,0
+11,Technology,Bachelor's,Male,1,30,1,0,77,0
+12,Sales & Marketing,Bachelor's,Male,1,35,3,0,50,1
+13,Sales & Marketing,Bachelor's,Male,1,49,5,1,49,0
+14,Technology,Master's & above,Male,2,39,16,0,80,0
+15,R&D,Master's & above,Female,1,37,7,0,84,0
+16,Operations,Bachelor's,Male,1,37,10,0,60,0
+17,Technology,Bachelor's,Female,1,38,5,0,77,0
+18,Sales & Marketing,Bachelor's,Female,1,34,4,0,51,0
+19,Sales & Marketing,Bachelor's,Female,1,34,8,0,46,0
+20,Operations,Bachelor's,Male,1,37,9,0,59,0
+21,Procurement,Bachelor's,Female,1,35,7,0,75,0
+22,Operations,Master's & above,Male,1,41,11,0,57,0
+23,Finance,Bachelor's,Female,1,28,4,0,63,0
+24,Procurement,Bachelor's,Female,1,27,1,0,70,0
+25,Finance,Master's & above,Female,2,39,7,1,59,0
+26,Technology,Bachelor's,Female,1,27,3,0,83,0
+27,Procurement,Bachelor's,Female,1,31,4,0,68,0
+28,Technology,Bachelor's,Female,1,33,4,0,79,0
+29,Analytics,Bachelor's,Female,1,29,3,0,80,0
+30,Sales & Marketing,Bachelor's,Female,1,26,1,0,44,0
+31,Procurement,Bachelor's,Male,1,37,10,0,72,0
+32,Finance,Bachelor's,Male,2,26,2,0,,0
+33,Sales & Marketing,Master's & above,Female,1,24,2,0,48,0
+34,Operations,Bachelor's,Female,2,57,6,0,58,0
+35,Analytics,Bachelor's,Female,2,27,3,0,87,0
+36,Sales & Marketing,Bachelor's,Male,1,40,4,0,47,0
+37,Technology,Bachelor's,Female,1,33,4,0,75,0
+38,Sales & Marketing,Bachelor's,Male,1,40,3,0,47,0
+39,Sales & Marketing,Master's & above,Male,1,42,5,0,51,0
+40,Sales & Marketing,Bachelor's,Male,1,33,6,0,51,1
+41,Technology,Bachelor's,Male,1,34,10,1,80,0
+42,Operations,Bachelor's,Male,2,23,2,0,57,0
+43,HR,Bachelor's,Female,1,59,26,0,52,0
+44,Sales & Marketing,Master's & above,Female,3,24,2,0,48,0
+45,Analytics,Bachelor's,Female,1,44,12,0,88,0
+46,Procurement,Bachelor's,Female,1,50,11,0,71,0
+47,Procurement,Master's & above,Female,1,37,4,0,71,0
+48,Technology,Bachelor's,Male,1,40,11,0,80,0
+49,Sales & Marketing,Bachelor's,Female,1,30,3,0,49,0
+50,Procurement,Master's & above,Female,1,56,12,1,73,0
+51,Finance,Bachelor's,Male,1,20,2,0,60,0
+52,Sales & Marketing,Bachelor's,Female,1,31,8,0,48,0
+53,Procurement,Bachelor's,Male,1,40,12,0,65,0
+54,HR,Bachelor's,Female,1,30,6,0,50,0
+55,Operations,Bachelor's,Male,1,39,5,0,62,0
+56,Analytics,Bachelor's,Female,2,26,2,0,85,0
+57,Sales & Marketing,Bachelor's,Female,1,29,1,0,49,0
+58,R&D,Master's & above,Male,1,40,5,0,84,0
+59,Sales & Marketing,Bachelor's,Male,2,27,1,1,47,0
+60,Sales & Marketing,Bachelor's,Male,1,40,7,0,52,0
+61,Sales & Marketing,Master's & above,Male,1,50,17,0,47,1
+62,Sales & Marketing,Bachelor's,Male,1,25,3,0,53,0
+63,Analytics,Bachelor's,Male,1,28,1,0,80,0
+64,Sales & Marketing,Master's & above,Male,1,35,2,0,52,0
+65,R&D,Bachelor's,Male,1,34,5,0,87,0
+66,Operations,Master's & above,Female,1,31,3,0,58,0
+67,Finance,Bachelor's,Female,1,27,1,1,58,1
+68,Sales & Marketing,Bachelor's,Male,1,27,1,0,,1
+69,Procurement,Bachelor's,Female,1,30,6,0,75,0
+70,Analytics,Bachelor's,Female,1,30,7,0,84,1
+71,Operations,Bachelor's,Female,1,50,5,1,59,0
+72,Technology,Master's & above,Female,1,34,7,0,78,1
+73,Sales & Marketing,Master's & above,Male,1,41,12,0,52,0
+74,Sales & Marketing,Bachelor's,Female,1,32,6,0,44,0
+75,Sales & Marketing,Bachelor's,Male,1,50,14,0,52,0
+76,Sales & Marketing,Master's & above,Female,1,38,2,0,49,1
+77,Sales & Marketing,Bachelor's,Female,2,29,5,1,51,0
+78,Sales & Marketing,Bachelor's,Female,1,35,3,0,53,0
+79,Analytics,Bachelor's,Male,1,25,2,0,91,0
+80,Sales & Marketing,Bachelor's,Female,1,30,3,0,58,1
+81,Technology,Bachelor's,Male,1,47,7,0,79,0
+82,Operations,Master's & above,Female,1,35,7,0,53,0
+83,Sales & Marketing,Master's & above,Male,2,25,2,1,53,0
+84,R&D,Bachelor's,Female,1,36,8,0,82,0
+85,Legal,Bachelor's,Male,1,29,1,0,65,1
+86,Operations,Master's & above,Male,1,42,11,0,60,1
+87,HR,Bachelor's,Female,1,28,6,0,52,0
+88,Sales & Marketing,Master's & above,Male,1,39,9,0,49,0
+89,Procurement,Master's & above,Female,1,32,3,1,69,1
+90,Sales & Marketing,Bachelor's,Female,1,31,1,0,51,0
+91,Sales & Marketing,Master's & above,Female,1,20,1,0,55,0
+92,Analytics,Bachelor's,Female,1,34,8,0,85,0
+93,Procurement,Master's & above,Female,2,46,3,0,74,0
+94,HR,Master's & above,Female,1,47,7,0,44,0
+95,Operations,Bachelor's,Female,1,44,13,0,53,0
+96,Analytics,Bachelor's,Female,1,31,4,0,86,0
+97,Technology,Bachelor's,Female,1,23,1,0,77,0
+98,Operations,Bachelor's,Female,1,33,5,1,57,0
+99,Sales & Marketing,Bachelor's,Female,1,41,12,0,52,0
+100,Finance,Master's & above,Male,1,60,17,0,59,0
+101,Operations,Bachelor's,Male,1,31,4,0,63,1
+102,Operations,Bachelor's,Female,1,37,11,0,57,0
+103,Analytics,Bachelor's,Female,2,39,4,1,83,0
+104,Sales & Marketing,Bachelor's,Female,1,40,8,0,54,0
+105,Sales & Marketing,Master's & above,Female,1,42,4,0,50,0
+106,Operations,Bachelor's,Female,1,35,6,0,57,1
+107,Operations,Master's & above,Female,1,41,6,0,62,0
+108,Procurement,Bachelor's,Female,1,23,2,0,73,0
+109,Sales & Marketing,Bachelor's,Female,2,31,4,0,50,0
+110,Analytics,Master's & above,Male,1,42,19,0,79,0
+111,Sales & Marketing,Bachelor's,Female,3,29,2,0,49,0
+112,HR,Bachelor's,Male,1,30,1,0,54,0
+113,Operations,Bachelor's,Female,1,41,6,0,63,0
+114,Sales & Marketing,Bachelor's,Female,1,40,2,0,90,1
+115,Sales & Marketing,Bachelor's,Male,1,34,5,0,49,0
+116,Sales & Marketing,Bachelor's,Female,1,31,2,0,46,0
+117,Technology,Bachelor's,Male,1,27,2,0,86,1
+118,Procurement,Bachelor's,Female,4,30,2,0,72,0
+119,Procurement,Bachelor's,Female,1,27,4,0,72,1
+120,Technology,Bachelor's,Male,4,36,7,0,82,0
+121,Technology,Bachelor's,Female,1,35,6,0,77,0
+122,Sales & Marketing,Master's & above,Male,1,34,7,0,51,1
+123,Procurement,Master's & above,Female,1,37,3,1,92,1
+124,Operations,Bachelor's,Male,1,27,1,0,58,0
+125,Procurement,Master's & above,Male,2,47,5,0,71,0
+126,Analytics,Bachelor's,Female,1,28,1,0,83,0
+127,Procurement,Master's & above,Female,1,40,5,0,68,0
+128,Sales & Marketing,Bachelor's,Male,1,30,1,0,50,0
+129,Operations,Master's & above,Female,1,38,9,0,,0
+130,Sales & Marketing,Bachelor's,Female,1,30,2,0,47,0
+131,Sales & Marketing,Bachelor's,Female,1,28,3,0,46,0
+132,Procurement,Bachelor's,Male,2,28,4,0,67,0
+133,Operations,Bachelor's,Male,1,35,7,0,58,0
+134,Analytics,Bachelor's,Male,1,32,8,0,89,1
+135,Sales & Marketing,Master's & above,Male,1,36,8,0,50,0
+136,Operations,Bachelor's,Male,1,24,1,0,56,0
+137,Technology,Bachelor's,Male,1,27,4,0,78,0
+138,Finance,Master's & above,Male,2,34,7,0,56,0
+139,Technology,Bachelor's,Male,1,31,4,1,78,0
+140,Technology,Bachelor's,Male,1,30,2,0,77,0
+141,Technology,Bachelor's,Female,2,30,7,1,76,0
+142,Finance,Bachelor's,Male,1,31,1,0,56,0
+143,Analytics,Bachelor's,Female,1,30,3,0,84,0
+144,Finance,Bachelor's,Female,1,28,2,0,57,0
+145,Technology,Bachelor's,Female,2,28,5,0,81,0
+146,Sales & Marketing,Bachelor's,Male,1,29,2,0,51,0
+147,Sales & Marketing,Master's & above,Male,1,46,11,0,51,0
+148,Technology,Bachelor's,Male,1,31,4,0,80,0
+149,Procurement,Bachelor's,Male,1,28,4,0,72,0
+150,Sales & Marketing,Master's & above,Female,1,31,6,0,50,0
+151,HR,Master's & above,Male,1,37,9,0,48,0
+152,Technology,Bachelor's,Male,2,34,8,0,88,1
+153,Procurement,Bachelor's,Male,1,25,3,0,70,1
+154,Operations,Master's & above,Male,1,40,4,0,57,0
+155,Operations,Master's & above,Male,1,43,7,0,56,1
+156,Operations,Bachelor's,Female,1,36,5,0,56,0
+157,Legal,Bachelor's,Male,1,29,3,0,63,0
+158,Finance,Bachelor's,Female,2,35,2,0,56,0
+159,Analytics,Master's & above,Male,1,34,2,0,84,0
+160,Sales & Marketing,Bachelor's,Female,1,32,4,0,,0
+161,HR,Bachelor's,Male,1,27,1,0,50,0
+162,Technology,Bachelor's,Male,1,29,5,0,75,0
+163,Sales & Marketing,Bachelor's,Female,1,34,4,0,48,0
+164,Procurement,Master's & above,Female,1,37,7,0,70,0
+165,Procurement,Bachelor's,Female,1,33,3,0,73,0
+166,Procurement,Master's & above,Male,1,33,4,0,67,0
+167,Sales & Marketing,Bachelor's,Female,1,39,8,0,,0
+168,Technology,Master's & above,Male,1,34,7,0,82,0
+169,Technology,Bachelor's,Male,2,32,6,0,84,0
+170,Sales & Marketing,Master's & above,Female,1,34,6,0,53,0
+171,Finance,Bachelor's,Female,1,29,6,0,,0
+172,Sales & Marketing,Bachelor's,Male,2,28,2,0,50,0
+173,Technology,Bachelor's,Male,1,28,5,0,75,0
+174,Procurement,Master's & above,Female,2,35,9,0,70,0
+175,Technology,Bachelor's,Female,2,40,3,0,86,0
+176,Sales & Marketing,Bachelor's,Female,2,27,4,0,54,0
+177,Procurement,Bachelor's,Male,3,26,3,0,70,0
+178,Operations,Bachelor's,Male,1,43,12,0,57,0
+179,Finance,Bachelor's,Male,1,23,1,0,,0
+180,Analytics,Bachelor's,Male,1,29,6,0,84,0
+181,Sales & Marketing,Bachelor's,Male,1,43,15,0,51,0
+182,Sales & Marketing,Bachelor's,Male,3,27,4,0,49,0
+183,Procurement,Bachelor's,Female,1,26,4,0,70,0
+184,Procurement,Bachelor's,Male,1,31,5,0,72,0
+185,Operations,Bachelor's,Male,1,40,11,0,58,0
+186,Operations,Bachelor's,Male,2,39,12,0,55,0
+187,Operations,Bachelor's,Female,2,30,6,0,57,0
+188,Technology,Master's & above,Male,1,47,4,0,77,0
+189,Sales & Marketing,Bachelor's,Male,1,34,7,0,48,1
+190,Operations,Master's & above,Female,1,33,9,0,64,0
+191,Sales & Marketing,Master's & above,Male,1,41,7,0,51,0
+192,Technology,Bachelor's,Male,1,29,4,0,80,0
+193,Analytics,Bachelor's,Male,1,32,4,0,86,0
+194,Procurement,Master's & above,Male,1,47,9,0,68,0
+195,Operations,Bachelor's,Male,1,35,3,0,65,0
+196,Technology,Bachelor's,Female,1,27,2,0,75,0
+197,Analytics,Bachelor's,Female,1,29,3,0,81,0
+198,Sales & Marketing,Bachelor's,Female,2,36,9,0,49,0
+199,Sales & Marketing,Bachelor's,Male,2,35,8,0,39,0
+200,Procurement,Bachelor's,Male,2,34,2,0,70,0
+201,Sales & Marketing,Master's & above,Male,1,34,5,1,94,1
+202,Operations,Master's & above,Female,1,39,2,0,60,0
+203,Sales & Marketing,Bachelor's,Male,1,26,2,0,51,0
+204,Operations,Bachelor's,Male,1,30,4,0,56,0
+205,Operations,Master's & above,Female,1,31,2,0,62,0
+206,HR,Master's & above,Male,1,44,6,0,48,0
+207,Sales & Marketing,Bachelor's,Female,1,38,4,0,49,0
+208,Technology,Bachelor's,Female,1,40,3,0,78,0
+209,Legal,Master's & above,Female,1,50,6,1,58,0
+210,Procurement,Master's & above,Male,1,44,12,0,70,0
+211,Procurement,Below Secondary,Male,1,23,2,0,69,0
+212,Sales & Marketing,Master's & above,Male,1,36,2,0,53,0
+213,Analytics,Bachelor's,Male,1,25,4,0,80,0
+214,Operations,Bachelor's,Male,1,34,4,0,58,0
+215,Analytics,Bachelor's,Male,1,28,1,0,85,0
+216,Analytics,Bachelor's,Male,2,30,6,0,81,0
+217,Procurement,Bachelor's,Female,1,35,8,0,67,0
+218,Analytics,Bachelor's,Male,1,33,8,0,86,0
+219,Analytics,Master's & above,Female,1,30,4,0,80,0
+220,Analytics,Bachelor's,Male,2,27,3,0,85,0
+221,Procurement,Bachelor's,Male,4,29,1,0,68,0
+222,Operations,Bachelor's,Male,1,43,3,0,58,0
+223,Analytics,Bachelor's,Female,2,28,5,0,86,0
+224,Procurement,Bachelor's,Female,1,31,3,0,68,0
+225,Operations,Bachelor's,Female,1,43,12,0,58,0
+226,Operations,Bachelor's,Female,1,35,9,0,60,0
+227,Sales & Marketing,Bachelor's,Male,2,35,9,0,49,0
+228,Operations,Master's & above,Female,1,50,8,0,59,0
+229,HR,Bachelor's,Male,1,26,3,0,50,0
+230,Sales & Marketing,Bachelor's,Male,1,32,5,0,52,0
+231,Operations,Master's & above,Female,1,38,2,1,93,1
+232,Sales & Marketing,Master's & above,Female,1,22,2,0,51,0
+233,HR,Bachelor's,Female,1,28,1,0,52,0
+234,Procurement,Bachelor's,Female,1,37,9,0,69,0
+235,Analytics,Bachelor's,Female,2,54,9,0,86,0
+236,Sales & Marketing,Bachelor's,Female,1,36,8,0,51,0
+237,Technology,Bachelor's,Female,1,35,8,0,78,0
+238,Analytics,Bachelor's,Female,1,39,4,0,85,0
+239,Operations,Bachelor's,Male,1,31,4,0,63,0
+240,Operations,Bachelor's,Female,2,38,7,1,60,0
+241,Sales & Marketing,Bachelor's,Female,1,28,2,0,48,0
+242,Sales & Marketing,Bachelor's,Male,3,26,3,0,52,0
+243,Sales & Marketing,Bachelor's,Female,1,29,1,0,54,0
+244,Analytics,Bachelor's,Male,1,30,4,0,84,0
+245,Operations,Bachelor's,Male,2,37,4,0,57,1
+246,R&D,,Female,1,25,1,0,76,0
+247,Technology,Bachelor's,Male,1,26,2,0,82,0
+248,Technology,Bachelor's,Male,1,31,4,0,78,0
+249,Technology,Bachelor's,Male,1,38,7,0,82,0
+250,Sales & Marketing,Bachelor's,Male,1,39,9,0,49,0
+251,Sales & Marketing,Bachelor's,Female,1,30,4,1,50,0
+252,Procurement,Master's & above,Male,1,34,8,0,67,0
+253,Procurement,Master's & above,Female,1,33,5,0,72,0
+254,Technology,Bachelor's,Male,1,29,3,0,78,0
+255,Operations,Bachelor's,Male,1,28,2,0,34,0
+256,Finance,Bachelor's,Male,1,24,1,0,56,0
+257,Analytics,Bachelor's,Male,2,26,2,0,87,0
+258,Legal,Bachelor's,Female,1,34,4,0,64,0
+259,Sales & Marketing,Bachelor's,Female,1,35,7,0,46,0
+260,Technology,Master's & above,Male,1,43,14,0,79,0
+261,Sales & Marketing,Bachelor's,Male,1,34,8,0,39,0
+262,Technology,Master's & above,Female,2,38,10,0,88,0
+263,Operations,Bachelor's,Male,1,34,5,0,54,0
+264,Operations,Bachelor's,Male,1,41,4,0,63,0
+265,Finance,Bachelor's,Male,2,29,4,0,45,0
+266,Operations,Bachelor's,Female,1,33,3,0,89,0
+267,Sales & Marketing,Master's & above,Female,1,41,5,0,48,0
+268,Operations,Master's & above,Female,3,38,11,0,57,0
+269,Procurement,Master's & above,Male,2,54,23,0,66,0
+270,Sales & Marketing,Master's & above,Male,2,34,8,0,49,0
+271,R&D,Bachelor's,Female,2,26,3,0,87,0
+272,Operations,Bachelor's,Female,1,35,3,0,59,0
+273,Legal,Below Secondary,Female,1,28,1,0,62,0
+274,Operations,Master's & above,Female,1,36,4,0,60,0
+275,Technology,Bachelor's,Male,1,45,15,0,87,0
+276,Procurement,Master's & above,Female,1,38,7,0,66,0
+277,Sales & Marketing,Bachelor's,Male,1,26,4,0,47,0
+278,Analytics,,Female,1,31,4,0,85,0
+279,Analytics,Bachelor's,Male,1,32,7,0,87,0
+280,Analytics,Bachelor's,Female,1,29,4,0,78,0
+281,Sales & Marketing,Bachelor's,Female,1,40,12,0,50,0
+282,Technology,Bachelor's,Female,2,29,6,0,75,0
+283,Analytics,Bachelor's,Female,2,31,7,0,87,0
+284,Finance,Bachelor's,Male,1,32,6,0,58,0
+285,Operations,Bachelor's,Female,1,42,11,0,67,0
+286,Procurement,Bachelor's,Male,1,30,3,0,65,0
+287,Procurement,Bachelor's,Male,1,24,2,0,70,0
+288,Sales & Marketing,Bachelor's,Male,1,35,7,0,56,0
+289,Technology,Bachelor's,Male,2,32,3,0,80,0
+290,HR,Bachelor's,Female,1,22,2,0,47,0
+291,Sales & Marketing,Bachelor's,Male,2,44,14,0,48,0
+292,Operations,Bachelor's,Male,2,39,9,0,58,0
+293,Technology,Bachelor's,Male,1,46,17,0,85,0
+294,Technology,Bachelor's,Female,1,29,5,0,77,0
+295,Finance,Bachelor's,Female,1,26,3,0,59,0
+296,Operations,Bachelor's,Female,1,35,5,0,35,0
+297,Procurement,Bachelor's,Female,1,29,2,0,95,1
+298,Technology,Bachelor's,Male,1,30,9,0,79,0
+299,Sales & Marketing,Bachelor's,Male,1,45,5,0,50,0
+300,Sales & Marketing,Bachelor's,Female,1,30,6,0,47,0
+301,Finance,Bachelor's,Male,1,28,4,0,59,0
+302,Technology,Master's & above,Male,1,46,10,0,76,0
+303,Procurement,Bachelor's,Male,1,27,2,0,69,0
+304,Sales & Marketing,Bachelor's,Female,1,34,5,0,47,0
+305,Analytics,Bachelor's,Female,2,32,3,0,86,0
+306,Operations,Bachelor's,Male,1,35,10,0,63,0
+307,Procurement,Bachelor's,Female,1,36,3,0,66,0
+308,Procurement,Master's & above,Female,1,58,13,0,70,0
+309,Finance,Bachelor's,Female,1,29,4,0,57,0
+310,Procurement,Bachelor's,Female,1,33,3,0,67,0
+311,Operations,Bachelor's,Female,1,32,6,0,62,0
+312,Legal,Below Secondary,Male,1,25,2,0,59,0
+313,Procurement,Bachelor's,Female,4,41,9,0,68,0
+314,Procurement,Bachelor's,Male,1,25,1,0,69,0
+315,Analytics,Master's & above,Male,1,50,7,1,79,0
+316,Sales & Marketing,Bachelor's,Female,1,30,7,0,53,0
+317,Technology,Bachelor's,Male,1,28,1,0,81,0
+318,Analytics,Master's & above,Male,1,40,5,1,83,1
+319,Finance,Below Secondary,Male,1,26,2,0,67,0
+320,Technology,Bachelor's,Female,1,35,8,0,81,0
+321,Sales & Marketing,Master's & above,Female,1,37,7,0,52,0
+322,Operations,Master's & above,Male,1,34,3,0,75,1
+323,Operations,Bachelor's,Female,1,25,2,0,57,0
+324,Sales & Marketing,Master's & above,Female,1,22,2,0,62,1
+325,Procurement,Bachelor's,Female,2,26,2,0,68,1
+326,Technology,Bachelor's,Female,1,31,7,0,80,0
+327,Finance,Bachelor's,Male,4,31,3,0,60,0
+328,Analytics,Bachelor's,Male,1,32,6,0,86,0
+329,Sales & Marketing,Bachelor's,Female,1,36,8,0,48,0
+330,Technology,Bachelor's,Female,1,57,19,0,81,0
+331,Sales & Marketing,Bachelor's,Male,1,42,9,0,51,0
+332,Sales & Marketing,Bachelor's,Male,1,28,3,0,48,0
+333,Analytics,Bachelor's,Female,2,33,3,0,86,0
+334,Analytics,Bachelor's,Male,1,41,3,0,86,0
+335,Operations,Below Secondary,Female,2,26,1,0,20,0
+336,Procurement,Bachelor's,Female,1,32,5,1,84,1
+337,Operations,Master's & above,Male,1,48,8,0,57,0
+338,Operations,Master's & above,Male,1,41,7,0,58,0
+339,Technology,Master's & above,Female,1,31,4,0,82,0
+340,Sales & Marketing,Bachelor's,Female,1,37,5,0,54,0
+341,Analytics,Bachelor's,Male,1,30,4,0,84,0
+342,Finance,Below Secondary,Female,1,26,2,0,60,0
+343,Sales & Marketing,Bachelor's,Male,1,44,11,0,42,0
+344,Operations,Bachelor's,Female,1,44,10,0,60,0
+345,R&D,Master's & above,Male,1,30,2,0,96,1
+346,Operations,Below Secondary,Male,1,24,2,0,59,0
+347,Sales & Marketing,Bachelor's,Male,1,40,10,0,49,0
+348,Technology,Master's & above,Female,1,32,5,0,80,0
+349,Sales & Marketing,Bachelor's,Female,1,40,7,0,53,0
+350,Technology,Below Secondary,Male,2,24,3,0,78,0
+351,Sales & Marketing,Bachelor's,Female,1,45,15,0,64,1
+352,Sales & Marketing,Bachelor's,Male,1,34,5,0,60,1
+353,Operations,Master's & above,Male,1,58,18,0,60,0
+354,Technology,Bachelor's,Female,1,35,7,0,82,0
+355,Sales & Marketing,Master's & above,Female,1,24,2,0,51,0
+356,Sales & Marketing,Bachelor's,Male,1,35,8,0,48,0
+357,Technology,Bachelor's,Female,1,31,2,0,81,0
+358,Operations,Bachelor's,Female,1,33,5,0,60,0
+359,HR,Master's & above,Male,1,44,14,0,47,0
+360,Sales & Marketing,,Male,1,24,2,0,52,1
+361,Procurement,Bachelor's,Female,2,34,10,0,69,0
+362,Sales & Marketing,Bachelor's,Male,1,37,2,0,54,0
+363,Operations,Bachelor's,Male,2,31,4,0,63,0
+364,Procurement,Bachelor's,Female,1,32,8,0,69,0
+365,Operations,Bachelor's,Male,1,33,7,0,57,0
+366,Operations,Master's & above,Male,1,53,11,0,57,0
+367,Operations,Bachelor's,Female,2,37,4,0,57,0
+368,Sales & Marketing,Bachelor's,Female,1,30,5,0,49,0
+369,Analytics,Bachelor's,Male,1,35,3,0,81,0
+370,Technology,Bachelor's,Male,1,32,4,0,80,0
+371,Operations,Bachelor's,Female,1,45,9,0,,0
+372,Procurement,Bachelor's,Female,1,29,1,0,69,0
+373,Sales & Marketing,Bachelor's,Female,2,31,4,0,53,0
+374,Technology,Bachelor's,Female,2,34,8,0,80,0
+375,Analytics,Bachelor's,Male,1,24,1,0,86,0
+376,Operations,Master's & above,Female,1,31,7,0,59,0
+377,Sales & Marketing,Master's & above,Female,1,37,6,0,47,0
+378,Sales & Marketing,Master's & above,Male,1,42,12,0,48,0
+379,Procurement,Master's & above,Female,1,40,6,0,72,0
+380,Operations,Bachelor's,Male,1,37,5,0,64,0
+381,Operations,Bachelor's,Female,1,50,8,0,57,0
+382,Operations,Bachelor's,Female,1,28,1,0,,0
+383,HR,Master's & above,Female,1,57,13,0,53,0
+384,Sales & Marketing,Master's & above,Male,2,42,10,0,46,0
+385,Operations,Master's & above,Male,1,34,8,0,,0
+386,Operations,Bachelor's,Female,1,34,8,0,54,0
+387,Operations,Bachelor's,Male,1,29,1,0,62,0
+388,Operations,Master's & above,Male,1,32,7,0,59,0
+389,Operations,Bachelor's,Male,1,27,2,0,,0
+390,Analytics,Bachelor's,Male,3,30,1,0,83,0
+391,Technology,Master's & above,Male,1,46,17,0,83,0
+392,Sales & Marketing,Master's & above,Male,1,37,10,0,49,1
+393,Sales & Marketing,Bachelor's,Female,1,48,13,0,52,0
+394,Technology,Bachelor's,Female,1,40,12,0,84,0
+395,Technology,Bachelor's,Male,1,32,6,0,73,0
+396,Sales & Marketing,Bachelor's,Female,1,33,7,0,48,0
+397,Procurement,Bachelor's,Female,1,35,6,0,66,0
+398,Sales & Marketing,,Female,1,23,2,0,51,0
+399,Analytics,Master's & above,Female,1,32,4,0,86,0
+400,Operations,Bachelor's,Male,4,31,6,0,59,0
+401,Operations,Bachelor's,Female,1,40,13,0,60,0
+402,Procurement,Master's & above,Female,1,43,7,0,70,0
+403,Operations,Master's & above,Male,1,38,6,0,60,0
+404,Sales & Marketing,Bachelor's,Male,1,36,8,0,49,0
+405,Procurement,Master's & above,Female,1,49,20,0,65,0
+406,Sales & Marketing,Bachelor's,Female,1,32,4,0,50,0
+407,Analytics,Bachelor's,Female,2,26,2,0,91,0
+408,Analytics,Bachelor's,Female,1,55,18,0,87,0
+409,HR,Master's & above,Female,1,35,5,0,50,0
+410,Operations,Master's & above,Female,1,36,6,0,59,0
+411,Sales & Marketing,Bachelor's,Male,1,29,4,0,,0
+412,Procurement,Bachelor's,Female,1,46,19,0,72,0
+413,R&D,Bachelor's,Female,2,30,4,0,84,0
+414,Sales & Marketing,Bachelor's,Male,1,51,19,0,40,0
+415,Sales & Marketing,Master's & above,Male,1,37,7,0,54,0
+416,Analytics,,Male,1,27,2,0,88,0
+417,Sales & Marketing,,Male,1,43,4,0,49,0
+418,HR,Bachelor's,Female,1,31,7,0,51,0
+419,Operations,Master's & above,Female,2,38,9,0,65,0
+420,Sales & Marketing,Master's & above,Female,1,43,10,0,,0
+421,Technology,Bachelor's,Female,3,29,4,0,81,0
+422,Technology,Master's & above,Female,1,30,2,0,79,0
+423,HR,Bachelor's,Female,1,49,22,0,50,0
+424,Analytics,Master's & above,Male,1,49,5,0,90,0
+425,Sales & Marketing,Master's & above,Female,1,36,5,0,48,0
+426,Procurement,Master's & above,Male,1,33,3,0,71,0
+427,Sales & Marketing,Master's & above,Male,3,52,25,0,49,0
+428,Sales & Marketing,Bachelor's,Female,1,29,1,0,53,0
+429,Operations,Bachelor's,Male,1,37,11,0,56,0
+430,Finance,Below Secondary,Female,1,25,3,0,,0
+431,HR,Below Secondary,Male,1,24,1,0,52,0
+432,Technology,Master's & above,Female,1,37,13,0,79,0
+433,Operations,Bachelor's,Male,1,35,10,0,59,1
+434,Technology,Bachelor's,Female,1,33,4,0,76,1
+435,Procurement,Bachelor's,Female,1,33,9,0,71,0
+436,Technology,Bachelor's,Female,1,59,28,0,78,0
+437,Analytics,Bachelor's,Female,1,29,1,0,88,0
+438,Operations,Bachelor's,Female,1,38,8,0,59,0
+439,Operations,Bachelor's,Male,1,48,13,0,57,0
+440,Legal,Bachelor's,Male,1,31,1,0,62,0
+441,Technology,Master's & above,Male,1,32,5,0,77,0
+442,Procurement,Bachelor's,Female,3,24,2,0,63,0
+443,Technology,Master's & above,Male,2,37,5,0,77,0
+444,Sales & Marketing,Bachelor's,Female,1,32,8,0,46,1
+445,Sales & Marketing,Bachelor's,Female,1,31,2,0,48,0
+446,Operations,Bachelor's,Male,2,45,5,1,,0
+447,Sales & Marketing,Bachelor's,Male,1,57,6,0,,0
+448,Operations,Master's & above,Female,2,39,8,0,59,0
+449,Procurement,Master's & above,Male,1,42,4,0,70,0
+450,Operations,Bachelor's,Female,1,45,4,1,65,1
+451,Operations,Master's & above,Female,1,41,3,0,,0
+452,Technology,Master's & above,Female,1,41,11,0,74,0
+453,Sales & Marketing,Master's & above,Female,1,34,7,0,50,0
+454,Sales & Marketing,Bachelor's,Female,1,47,18,0,52,0
+455,Sales & Marketing,Master's & above,Male,1,33,7,0,51,0
+456,Operations,Master's & above,Male,1,48,15,0,69,1
+457,Operations,Bachelor's,Female,1,34,3,0,60,0
+458,Sales & Marketing,Master's & above,Female,1,35,4,0,47,0
+459,Analytics,Master's & above,Male,1,35,4,0,84,0
+460,Technology,Bachelor's,Male,2,26,2,0,79,0
+461,Sales & Marketing,Master's & above,Female,1,45,17,0,49,0
+462,Sales & Marketing,Master's & above,Male,1,31,1,0,54,0
+463,Sales & Marketing,Bachelor's,Female,1,30,7,0,49,0
+464,Sales & Marketing,Bachelor's,Male,1,46,5,0,50,0
+465,Operations,Bachelor's,Female,1,60,4,0,56,0
+466,Operations,Bachelor's,Male,1,44,11,0,55,0
+467,Technology,Master's & above,Female,3,35,3,0,86,0
+468,Sales & Marketing,Bachelor's,Male,2,33,6,0,52,0
+469,Operations,Bachelor's,Male,1,38,8,0,55,0
+470,Technology,Master's & above,Female,1,39,5,0,80,0
+471,Sales & Marketing,Bachelor's,Male,1,30,2,0,50,0
+472,Operations,Bachelor's,Female,1,31,1,0,65,0
+473,Sales & Marketing,Bachelor's,Male,1,57,3,0,50,0
+474,Sales & Marketing,Bachelor's,Female,1,34,7,0,50,0
+475,Operations,Bachelor's,Male,1,38,4,0,66,0
+476,Sales & Marketing,,Female,1,24,1,0,55,0
+477,Procurement,Master's & above,Male,1,45,16,0,87,1
+478,Sales & Marketing,Master's & above,Female,1,40,11,0,53,0
+479,Procurement,Bachelor's,Male,2,32,3,0,70,0
+480,Sales & Marketing,Bachelor's,Female,2,29,2,0,48,0
+481,Finance,Bachelor's,Female,1,39,11,0,59,0
+482,Analytics,Bachelor's,Female,1,32,7,0,80,0
+483,Operations,Master's & above,Male,2,57,7,0,58,0
+484,Procurement,Bachelor's,Female,1,36,4,0,72,0
+485,Sales & Marketing,Bachelor's,Male,1,34,5,0,46,0
+486,HR,Master's & above,Female,1,33,7,0,50,0
+487,Technology,Master's & above,Male,1,39,4,0,81,0
+488,Finance,Bachelor's,Female,2,32,8,0,59,0
+489,Technology,Bachelor's,Male,1,31,6,0,77,0
+490,Sales & Marketing,Bachelor's,Male,1,31,7,0,52,0
+491,Procurement,Bachelor's,Female,1,25,3,0,68,0
+492,Sales & Marketing,Bachelor's,Male,1,43,4,0,50,0
+493,Operations,Bachelor's,Male,1,25,1,0,65,0
+494,Procurement,Master's & above,Female,1,50,16,0,68,0
+495,Operations,Master's & above,Male,3,32,4,0,64,1
+496,Finance,Bachelor's,Male,1,28,2,0,59,0
+497,Sales & Marketing,Bachelor's,Male,1,32,5,0,51,0
+498,Sales & Marketing,Bachelor's,Female,1,34,5,0,49,0
+499,Operations,Bachelor's,Male,1,30,4,0,55,0
+500,Operations,Master's & above,Female,1,33,6,0,74,1
+501,Procurement,Master's & above,Male,2,46,19,0,70,0
+502,Sales & Marketing,Bachelor's,Male,1,35,10,0,50,1
+503,Operations,Bachelor's,Male,1,33,8,0,59,1
+504,Operations,Bachelor's,Female,1,30,4,0,59,0
+505,Procurement,Bachelor's,Male,2,33,4,0,71,0
+506,Sales & Marketing,Bachelor's,Male,1,28,5,0,52,0
+507,Technology,Master's & above,Female,1,38,8,0,84,0
+508,Sales & Marketing,Bachelor's,Male,1,34,7,0,49,1
+509,Sales & Marketing,,Female,2,40,1,0,51,0
+510,Procurement,Bachelor's,Female,2,30,5,0,73,0
+511,Operations,Bachelor's,Male,1,29,7,0,60,0
+512,R&D,Bachelor's,Female,1,30,3,0,83,0
+513,Sales & Marketing,Bachelor's,Male,1,38,10,0,50,0
+514,Operations,Bachelor's,Female,3,40,11,0,60,0
+515,Analytics,,Female,1,29,5,0,86,0
+516,HR,Master's & above,Male,1,53,25,0,47,0
+517,Sales & Marketing,Bachelor's,Female,1,26,2,0,49,0
+518,Analytics,Bachelor's,Female,2,28,1,0,82,0
+519,Analytics,Master's & above,Female,1,26,1,0,84,0
+520,Procurement,Bachelor's,Female,1,28,4,0,65,0
+521,HR,Bachelor's,Female,1,30,3,0,51,0
+522,Operations,Master's & above,Male,1,59,4,0,56,0
+523,R&D,Bachelor's,Female,1,29,1,0,86,0
+524,Technology,Bachelor's,Male,1,31,4,0,83,0
+525,Procurement,Bachelor's,Female,1,26,2,0,69,0
+526,Operations,Master's & above,Male,1,37,10,0,62,0
+527,Operations,Bachelor's,Male,1,25,1,0,62,0
+528,Technology,Bachelor's,Female,1,27,3,0,78,0
+529,Operations,Master's & above,Female,1,39,10,0,60,0
+530,Analytics,Bachelor's,Female,1,36,3,0,91,1
+531,Procurement,Master's & above,Male,2,35,6,0,91,1
+532,Technology,Bachelor's,Female,1,28,1,0,81,0
+533,Sales & Marketing,Bachelor's,Male,1,30,1,0,50,0
+534,Procurement,Master's & above,Male,1,37,9,0,75,0
+535,Technology,Master's & above,Male,2,35,9,0,80,0
+536,Sales & Marketing,Master's & above,Female,1,30,5,0,54,0
+537,R&D,Bachelor's,Female,1,30,1,0,96,1
+538,Technology,Bachelor's,Male,1,45,3,0,83,0
+539,Procurement,Master's & above,Male,1,36,7,0,71,0
+540,Sales & Marketing,Bachelor's,Female,1,37,4,0,50,0
+541,Procurement,Bachelor's,Male,2,39,4,0,73,0
+542,Operations,Bachelor's,Female,1,37,6,0,59,0
+543,Procurement,Bachelor's,Male,1,28,1,0,82,1
+544,Procurement,Master's & above,Female,1,40,12,0,70,0
+545,Sales & Marketing,Bachelor's,Male,1,30,3,0,52,0
+546,Operations,Master's & above,Female,1,36,7,0,56,0
+547,Sales & Marketing,Bachelor's,Male,1,27,4,0,57,0
+548,Operations,Bachelor's,Female,1,29,4,0,57,0
+549,Technology,Bachelor's,Female,7,31,5,0,82,0
+550,Procurement,Master's & above,Male,1,36,7,0,67,0
+551,Operations,Bachelor's,Male,1,30,4,0,57,0
+552,Analytics,Master's & above,Female,2,32,6,0,86,0
+553,Sales & Marketing,Bachelor's,Male,1,29,2,0,50,0
+554,Sales & Marketing,Bachelor's,Female,1,29,1,0,,0
+555,Sales & Marketing,Master's & above,Male,2,38,8,0,47,0
+556,Procurement,Master's & above,Female,1,51,15,0,71,0
+557,Finance,Master's & above,Female,1,32,8,0,58,0
+558,Technology,Master's & above,Female,1,36,5,0,83,0
+559,Operations,Bachelor's,Female,2,30,5,0,57,0
+560,Finance,Bachelor's,Female,1,26,5,0,56,0
+561,R&D,Bachelor's,Female,2,32,3,0,83,1
+562,Sales & Marketing,Bachelor's,Male,2,26,3,0,50,0
+563,Analytics,Bachelor's,Male,1,30,2,0,83,0
+564,Sales & Marketing,Bachelor's,Male,1,28,2,0,50,0
+565,Sales & Marketing,Bachelor's,Female,1,40,18,0,55,1
+566,Legal,Bachelor's,Female,1,33,6,0,66,0
+567,Operations,Below Secondary,Female,1,24,1,0,73,1
+568,Legal,Below Secondary,Female,1,27,1,0,59,0
+569,Operations,Bachelor's,Male,1,30,2,0,,0
+570,Sales & Marketing,Master's & above,Male,1,37,9,0,44,0
+571,Operations,,Female,1,33,9,0,58,0
+572,Analytics,Bachelor's,Male,2,31,2,0,84,0
+573,Sales & Marketing,Bachelor's,Male,1,43,3,0,48,0
+574,Sales & Marketing,Master's & above,Female,1,39,10,0,52,1
+575,Sales & Marketing,,Male,1,24,2,1,81,1
+576,Procurement,Master's & above,Female,1,41,12,0,71,0
+577,R&D,Master's & above,Male,1,35,4,0,85,0
+578,Sales & Marketing,Bachelor's,Female,1,24,1,0,49,0
+579,Sales & Marketing,Master's & above,Female,3,33,7,0,53,0
+580,Sales & Marketing,Master's & above,Female,1,35,3,0,47,0
+581,Sales & Marketing,Bachelor's,Female,1,30,8,1,50,0
+582,Procurement,Bachelor's,Male,1,29,2,0,68,0
+583,Sales & Marketing,Bachelor's,Female,1,28,2,0,50,0
+584,Operations,Master's & above,Female,1,48,15,0,,0
+585,Technology,Bachelor's,Female,1,31,3,0,79,0
+586,Sales & Marketing,Bachelor's,Male,1,26,3,0,50,0
+587,Sales & Marketing,,Female,2,24,1,0,47,0
+588,Technology,Bachelor's,Male,1,30,1,0,76,0
+589,Operations,Master's & above,Female,1,38,2,0,,0
+590,Sales & Marketing,,Male,1,27,3,0,49,0
+591,Technology,Master's & above,Male,1,49,24,0,77,0
+592,Technology,Bachelor's,Female,1,32,1,0,80,0
+593,Operations,Bachelor's,Male,1,26,1,0,65,0
+594,Sales & Marketing,Bachelor's,Female,1,35,7,0,48,0
+595,Finance,Bachelor's,Female,2,46,3,0,59,0
+596,Procurement,Master's & above,Female,1,34,6,0,69,0
+597,Finance,Bachelor's,Male,2,30,3,0,59,0
+598,Procurement,Below Secondary,Male,1,53,11,0,67,0
+599,Sales & Marketing,Master's & above,Female,1,49,17,0,48,0
+600,Procurement,Master's & above,Female,1,35,5,0,68,0
+601,R&D,Master's & above,Male,1,34,4,0,83,0
+602,Sales & Marketing,Bachelor's,Female,7,26,5,0,46,0
+603,Sales & Marketing,Bachelor's,Female,2,29,1,0,47,0
+604,Operations,Master's & above,Female,1,37,4,0,58,0
+605,Analytics,Bachelor's,Male,2,25,2,0,80,0
+606,Sales & Marketing,Bachelor's,Male,1,47,16,0,48,1
+607,Analytics,Bachelor's,Male,1,28,5,0,85,0
+608,Sales & Marketing,Bachelor's,Female,1,32,10,0,48,0
+609,Procurement,Bachelor's,Female,1,34,4,0,71,0
+610,Operations,Below Secondary,Female,1,36,3,0,59,0
+611,Legal,Bachelor's,Male,1,32,6,0,59,0
+612,Procurement,Master's & above,Female,2,32,5,0,72,0
+613,Sales & Marketing,Bachelor's,Female,1,29,3,0,52,0
+614,Operations,Bachelor's,Female,1,32,4,1,57,1
+615,Sales & Marketing,Bachelor's,Female,5,27,2,0,52,0
+616,Sales & Marketing,Bachelor's,Male,1,34,4,0,51,0
+617,Sales & Marketing,Master's & above,Male,1,36,8,0,48,0
+618,Operations,Bachelor's,Female,1,26,2,0,59,0
+619,Sales & Marketing,Master's & above,Male,1,33,3,0,94,1
+620,Sales & Marketing,Master's & above,Male,1,47,3,0,,0
+621,Sales & Marketing,Bachelor's,Female,1,42,2,0,48,0
+622,Sales & Marketing,Master's & above,Female,1,38,8,0,54,0
+623,Technology,Bachelor's,Male,4,32,8,0,93,1
+624,Procurement,Bachelor's,Female,1,44,16,0,70,0
+625,Sales & Marketing,Master's & above,Male,1,33,5,0,46,0
+626,Sales & Marketing,Bachelor's,Female,2,27,3,0,55,0
+627,Technology,Master's & above,Male,2,50,14,0,85,0
+628,Procurement,Bachelor's,Female,2,29,4,0,71,0
+629,Procurement,Bachelor's,Male,1,29,4,0,84,1
+630,Technology,Below Secondary,Male,2,28,2,0,79,0
+631,Analytics,Bachelor's,Male,1,44,7,0,84,0
+632,Operations,Bachelor's,Female,1,32,2,0,,0
+633,Analytics,Master's & above,Male,2,30,6,0,83,0
+634,Operations,Bachelor's,Male,1,37,4,0,59,0
+635,Operations,Bachelor's,Female,1,37,5,0,59,0
+636,Sales & Marketing,Bachelor's,Female,1,32,4,0,52,0
+637,Procurement,Bachelor's,Male,1,36,2,0,66,0
+638,Procurement,Bachelor's,Male,2,34,4,0,62,0
+639,Finance,Bachelor's,Female,1,30,3,0,65,0
+640,Technology,Bachelor's,Female,1,26,1,1,81,1
+641,Sales & Marketing,Master's & above,Female,1,31,2,0,51,0
+642,Technology,Bachelor's,Female,1,41,7,0,83,0
+643,Operations,Master's & above,Female,1,33,7,0,57,0
+644,Operations,Bachelor's,Male,1,25,3,0,58,0
+645,Operations,Bachelor's,Female,1,39,6,0,58,0
+646,Procurement,Bachelor's,Male,1,31,6,0,70,0
+647,Technology,Master's & above,Male,1,56,16,0,79,0
+648,Sales & Marketing,Bachelor's,Male,1,30,3,0,50,0
+649,Operations,Bachelor's,Female,2,29,5,0,63,1
+650,Sales & Marketing,Master's & above,Male,1,31,3,0,50,0
+651,R&D,Master's & above,Male,2,28,2,0,82,0
+652,Analytics,Bachelor's,Female,2,30,3,0,82,0
+653,Analytics,Bachelor's,Male,1,30,2,0,84,0
+654,Procurement,Bachelor's,Male,1,29,6,0,65,0
+655,Operations,Bachelor's,Female,1,31,3,0,60,0
+656,Analytics,Bachelor's,Male,1,30,6,0,84,1
+657,Procurement,Bachelor's,Male,1,26,1,0,72,0
+658,Operations,Bachelor's,Male,1,44,4,0,60,0
+659,Procurement,Master's & above,Female,1,31,6,0,70,0
+660,Technology,Bachelor's,Female,1,35,3,0,77,0
+661,Procurement,Master's & above,Female,1,41,3,0,73,0
+662,Sales & Marketing,Bachelor's,Male,1,33,7,0,47,0
+663,Technology,Bachelor's,Male,1,33,4,0,81,0
+664,Operations,Below Secondary,Female,1,26,3,0,60,0
+665,Sales & Marketing,Bachelor's,Male,1,47,19,0,48,0
+666,Sales & Marketing,Bachelor's,Male,1,28,5,0,51,0
+667,Sales & Marketing,Bachelor's,Female,1,32,5,0,52,0
+668,Sales & Marketing,Bachelor's,Female,1,36,10,0,50,0
+669,Procurement,Master's & above,Male,2,39,5,0,68,0
+670,Technology,Bachelor's,Male,1,29,2,0,81,0
+671,Sales & Marketing,Below Secondary,Male,3,45,6,0,47,0
+672,Operations,Bachelor's,Female,1,48,4,0,58,0
+673,HR,Bachelor's,Female,2,32,5,0,49,0
+674,Operations,Bachelor's,Female,1,39,5,0,63,0
+675,Operations,Master's & above,Female,1,53,19,0,57,0
+676,Sales & Marketing,Bachelor's,Male,1,42,4,0,53,0
+677,Finance,Master's & above,Female,2,35,4,0,59,0
+678,Analytics,Bachelor's,Female,1,30,4,0,82,0
+679,Analytics,Master's & above,Female,1,31,6,0,86,0
+680,Operations,Bachelor's,Female,1,26,3,0,56,0
+681,Sales & Marketing,Bachelor's,Female,1,35,3,1,45,1
+682,Sales & Marketing,Bachelor's,Male,1,45,5,0,52,0
+683,Procurement,Bachelor's,Male,5,37,9,0,64,0
+684,Operations,Bachelor's,Female,1,42,10,0,59,0
+685,Sales & Marketing,Master's & above,Male,1,43,14,0,50,0
+686,Operations,Bachelor's,Female,1,27,2,0,58,0
+687,Sales & Marketing,Bachelor's,Female,1,26,1,0,48,0
+688,Sales & Marketing,Master's & above,Male,1,38,10,0,50,0
+689,Analytics,Master's & above,Male,1,31,5,0,82,0
+690,Operations,Bachelor's,Female,1,30,2,0,64,0
+691,Procurement,Master's & above,Female,1,37,11,0,70,0
+692,Sales & Marketing,Master's & above,Female,1,35,4,0,48,0
+693,Operations,Master's & above,Male,2,38,4,0,63,0
+694,R&D,Bachelor's,Female,3,30,2,0,85,0
+695,Technology,Bachelor's,Female,1,30,1,0,78,1
+696,Sales & Marketing,Bachelor's,Female,2,28,2,0,52,0
+697,Operations,Master's & above,Male,1,42,7,0,59,0
+698,Procurement,Bachelor's,Female,1,33,7,0,68,0
+699,Sales & Marketing,Master's & above,Female,1,39,4,0,,0
+700,Sales & Marketing,Master's & above,Male,1,33,7,0,49,0
+701,Technology,Master's & above,Female,1,43,6,0,81,0
+702,Operations,Bachelor's,Female,1,30,7,0,59,0
+703,Analytics,Master's & above,Male,1,37,3,0,85,0
+704,Technology,Bachelor's,Female,1,33,6,1,81,0
+705,Sales & Marketing,Master's & above,Male,1,38,10,0,49,0
+706,Analytics,Bachelor's,Male,2,27,3,0,85,1
+707,Operations,Bachelor's,Female,1,24,2,0,55,0
+708,Operations,Bachelor's,Female,1,35,10,0,58,0
+709,Operations,Master's & above,Female,2,42,2,0,57,0
+710,Sales & Marketing,Master's & above,Female,1,32,7,0,53,0
+711,Sales & Marketing,Bachelor's,Male,2,25,2,0,,0
+712,Procurement,Master's & above,Female,1,35,6,0,67,0
+713,Technology,Master's & above,Male,1,54,24,0,75,0
+714,Sales & Marketing,Bachelor's,Female,1,33,3,0,,0
+715,Sales & Marketing,Master's & above,Female,1,27,1,0,48,0
+716,Analytics,Bachelor's,Female,2,28,2,0,86,1
+717,HR,Master's & above,Male,1,36,8,0,44,0
+718,Procurement,Master's & above,Female,3,51,7,0,72,0
+719,Operations,Bachelor's,Female,2,31,2,0,57,0
+720,Sales & Marketing,Bachelor's,Female,2,25,4,0,47,0
+721,HR,Master's & above,Female,1,45,3,0,51,0
+722,Finance,Bachelor's,Male,1,31,4,0,64,0
+723,HR,Bachelor's,Female,1,39,11,0,53,0
+724,Procurement,Bachelor's,Male,1,39,5,0,73,0
+725,Procurement,Bachelor's,Male,1,25,2,0,66,0
+726,Operations,Master's & above,Male,1,37,8,1,99,1
+727,Technology,Bachelor's,Male,1,29,3,0,80,0
+728,Sales & Marketing,Bachelor's,Male,1,27,5,0,52,0
+729,Operations,Bachelor's,Male,1,27,3,0,59,0
+730,Sales & Marketing,Bachelor's,Female,1,47,6,0,51,0
+731,Finance,Master's & above,Male,1,36,3,0,55,0
+732,Operations,Bachelor's,Male,1,35,9,0,58,0
+733,Sales & Marketing,Bachelor's,Male,1,35,8,0,51,0
+734,Technology,Bachelor's,Female,2,32,5,0,82,0
+735,Sales & Marketing,Bachelor's,Female,1,26,1,0,47,0
+736,Finance,Master's & above,Male,1,33,3,1,60,1
+737,Sales & Marketing,Master's & above,Female,1,32,5,0,56,0
+738,Procurement,Bachelor's,Male,1,41,4,0,73,0
+739,Sales & Marketing,,Male,1,26,2,0,53,0
+740,Finance,Master's & above,Female,1,40,4,0,58,0
+741,Operations,Bachelor's,Male,1,31,4,0,55,0
+742,Technology,Bachelor's,Female,1,25,2,0,78,0
+743,Legal,Master's & above,Female,1,58,15,0,60,0
+744,Sales & Marketing,Bachelor's,Male,1,27,4,0,53,0
+745,Sales & Marketing,Bachelor's,Male,1,29,5,0,52,0
+746,Sales & Marketing,Bachelor's,Female,2,33,8,0,46,0
+747,HR,Bachelor's,Male,1,28,1,0,43,0
+748,Operations,Bachelor's,Male,1,32,2,0,59,0
+749,Finance,Master's & above,Male,1,36,2,0,57,0
+750,Procurement,Master's & above,Female,1,37,3,0,72,0
+751,HR,Bachelor's,Female,1,30,7,0,51,0
+752,Technology,Master's & above,Male,1,43,7,0,77,0
+753,Technology,Master's & above,Female,1,31,5,0,81,0
+754,R&D,Master's & above,Female,2,34,4,0,86,0
+755,Operations,Bachelor's,Female,1,45,18,0,78,0
+756,Analytics,Master's & above,Female,2,30,6,0,80,0
+757,Analytics,Bachelor's,Female,3,39,6,0,84,0
+758,Technology,Master's & above,Male,1,34,5,0,81,0
+759,Technology,Master's & above,Male,1,36,8,0,86,0
+760,Technology,Bachelor's,Male,1,25,3,0,80,0
+761,Sales & Marketing,Bachelor's,Female,1,28,4,0,56,0
+762,Finance,Bachelor's,Female,1,31,5,0,60,0
+763,Procurement,Master's & above,Male,1,49,7,0,73,0
+764,Technology,Master's & above,Female,1,39,4,0,78,1
+765,Sales & Marketing,Bachelor's,Male,1,49,19,0,50,0
+766,Procurement,Master's & above,Male,1,37,9,0,67,0
+767,Technology,Bachelor's,Male,1,38,5,0,79,0
+768,Operations,Bachelor's,Female,1,38,10,0,59,0
+769,Sales & Marketing,Master's & above,Female,1,44,9,0,54,0
+770,Technology,Bachelor's,Male,1,30,2,0,84,0
+771,Analytics,Master's & above,Male,1,34,6,0,86,0
+772,Finance,Below Secondary,Male,2,25,1,0,60,0
+773,Operations,Master's & above,Male,2,34,7,0,76,0
+774,Technology,Master's & above,Female,1,35,4,0,81,0
+775,Procurement,Bachelor's,Female,1,38,4,0,65,0
+776,Procurement,Bachelor's,Male,1,40,7,0,68,0
+777,Legal,Bachelor's,Male,1,52,4,1,55,0
+778,Sales & Marketing,Bachelor's,Female,1,60,12,0,48,0
+779,Sales & Marketing,Bachelor's,Female,6,27,1,0,58,0
+780,Operations,Bachelor's,Male,1,32,5,0,62,0
+781,HR,Bachelor's,Male,1,28,2,0,52,1
+782,Sales & Marketing,Bachelor's,Male,1,28,3,0,52,0
+783,Operations,Master's & above,Female,2,51,16,0,62,0
+784,Sales & Marketing,Master's & above,Female,1,33,5,0,49,0
+785,Sales & Marketing,Master's & above,Female,1,31,1,0,47,0
+786,Sales & Marketing,Bachelor's,Male,1,26,3,0,54,0
+787,Sales & Marketing,Bachelor's,Male,1,30,1,0,47,0
+788,Operations,Bachelor's,Female,1,29,2,0,60,0
+789,Finance,Bachelor's,Female,3,31,3,0,65,0
+790,Operations,Bachelor's,Male,1,43,11,0,57,0
+791,Sales & Marketing,Bachelor's,Female,1,32,6,0,47,0
+792,Operations,Bachelor's,Female,1,33,4,0,74,1
+793,Sales & Marketing,Bachelor's,Male,1,30,3,0,48,0
+794,Sales & Marketing,Master's & above,Female,1,23,1,0,44,0
+795,Procurement,Master's & above,Male,1,28,4,0,68,0
+796,HR,Master's & above,Male,1,43,11,0,51,0
+797,Operations,Bachelor's,Male,1,44,15,0,55,0
+798,Analytics,Master's & above,Male,1,33,2,0,84,0
+799,Sales & Marketing,Bachelor's,Male,1,31,7,0,50,0
+800,Sales & Marketing,Master's & above,Male,1,37,10,0,48,0
+801,Technology,Bachelor's,Male,2,32,6,0,79,0
+802,Technology,Bachelor's,Female,1,37,11,0,79,0
+803,Sales & Marketing,Master's & above,Male,1,37,5,0,49,0
+804,Sales & Marketing,Bachelor's,Male,1,28,1,0,46,0
+805,Operations,Master's & above,Female,2,35,9,0,56,0
+806,Operations,Bachelor's,Female,1,36,3,0,74,1
+807,Technology,Bachelor's,Female,2,39,5,0,78,0
+808,Operations,Bachelor's,Male,1,30,5,0,56,0
+809,Operations,Bachelor's,Female,1,26,5,0,60,0
+810,Sales & Marketing,Bachelor's,Male,1,27,3,0,51,0
+811,Analytics,Bachelor's,Male,1,32,3,1,78,1
+812,Operations,Bachelor's,Male,1,42,12,0,55,0
+813,Analytics,Bachelor's,Male,1,30,1,0,84,0
+814,R&D,Bachelor's,Female,1,35,7,0,89,0
+815,Technology,Bachelor's,Female,1,28,2,0,79,0
+816,HR,Bachelor's,Male,1,27,5,0,46,0
+817,Operations,Master's & above,Male,1,38,9,0,62,0
+818,Operations,,Male,1,27,2,0,65,0
+819,Operations,Master's & above,Female,1,43,3,0,59,0
+820,Sales & Marketing,Master's & above,Male,1,34,9,0,49,0
+821,Technology,Master's & above,Male,1,38,8,0,77,0
+822,Operations,Bachelor's,Female,1,25,2,0,57,0
+823,Technology,Bachelor's,Female,1,35,6,0,77,1
+824,Sales & Marketing,Bachelor's,Male,1,29,5,0,48,0
+825,Sales & Marketing,Bachelor's,Female,1,40,6,0,55,0
+826,Technology,Bachelor's,Female,1,35,4,0,83,0
+827,Analytics,Bachelor's,Male,1,34,3,0,89,1
+828,Procurement,Bachelor's,Female,1,37,2,0,64,0
+829,R&D,Master's & above,Male,1,29,2,0,84,0
+830,Technology,Master's & above,Female,1,39,8,0,77,0
+831,Procurement,Bachelor's,Male,1,50,8,0,71,0
+832,HR,Bachelor's,Male,1,25,2,0,47,0
+833,Sales & Marketing,Bachelor's,Male,1,40,10,0,49,0
+834,Sales & Marketing,Bachelor's,Female,1,30,8,0,50,1
+835,Procurement,Bachelor's,Male,1,33,3,0,69,1
+836,Procurement,Bachelor's,Female,1,32,3,0,70,0
+837,Technology,Master's & above,Male,1,39,7,0,78,0
+838,Operations,Bachelor's,Male,1,52,10,0,60,0
+839,Procurement,Bachelor's,Female,1,29,4,0,72,1
+840,Operations,Bachelor's,Male,1,48,17,0,58,0
+841,Technology,Bachelor's,Male,2,38,8,0,81,0
+842,Sales & Marketing,Bachelor's,Female,1,44,10,0,49,0
+843,Sales & Marketing,Master's & above,Male,1,42,11,0,54,1
+844,Sales & Marketing,,Male,1,29,2,0,47,0
+845,Procurement,Master's & above,Male,1,34,7,0,70,0
+846,Sales & Marketing,Master's & above,Male,1,39,8,0,47,0
+847,Sales & Marketing,Master's & above,Female,1,38,8,0,51,0
+848,Technology,Bachelor's,Female,1,47,16,0,80,0
+849,Operations,Bachelor's,Male,1,29,3,0,66,0
+850,Sales & Marketing,Bachelor's,Female,1,36,7,0,50,0
+851,Technology,Bachelor's,Male,1,29,6,0,77,0
+852,HR,Master's & above,Female,1,34,7,0,55,0
+853,Sales & Marketing,Bachelor's,Male,1,28,1,0,47,0
+854,Technology,Bachelor's,Male,2,27,1,0,77,0
+855,HR,Bachelor's,Male,1,29,3,0,51,0
+856,Procurement,Master's & above,Male,1,36,4,0,81,1
+857,Sales & Marketing,Bachelor's,Male,1,29,3,0,52,0
+858,Analytics,Bachelor's,Male,2,28,1,0,89,0
+859,Analytics,Bachelor's,Female,1,26,4,0,85,0
+860,Procurement,Below Secondary,Male,3,22,1,0,66,0
+861,Analytics,Master's & above,Female,3,35,3,0,86,0
+862,Technology,Bachelor's,Male,1,49,6,0,80,0
+863,Technology,Bachelor's,Female,1,33,2,0,79,0
+864,Sales & Marketing,Bachelor's,Female,1,30,1,0,50,0
+865,Operations,Master's & above,Female,1,43,3,0,59,0
+866,Sales & Marketing,Bachelor's,Male,1,44,12,0,50,0
+867,Sales & Marketing,Below Secondary,Male,1,25,3,0,47,0
+868,Sales & Marketing,Below Secondary,Female,1,25,3,0,64,1
+869,Sales & Marketing,Bachelor's,Male,3,53,12,0,50,0
+870,Operations,Master's & above,Female,1,36,9,0,62,0
+871,Procurement,Master's & above,Male,2,50,13,0,69,0
+872,Sales & Marketing,Bachelor's,Female,1,31,4,0,48,0
+873,Sales & Marketing,Bachelor's,Female,2,36,4,0,49,0
+874,Sales & Marketing,Bachelor's,Male,1,24,2,0,48,0
+875,R&D,Master's & above,Female,1,32,5,0,78,0
+876,Sales & Marketing,Bachelor's,Male,1,51,13,0,51,0
+877,Analytics,Bachelor's,Female,1,29,3,0,87,0
+878,Finance,Bachelor's,Female,1,29,1,0,55,0
+879,Legal,Bachelor's,Male,1,32,1,0,63,0
+880,Operations,Bachelor's,Male,2,42,5,0,30,1
+881,Analytics,Below Secondary,Male,1,26,2,0,87,0
+882,Procurement,Bachelor's,Female,3,43,2,0,70,0
+883,Analytics,Bachelor's,Male,1,31,4,0,85,0
+884,Procurement,Bachelor's,Female,1,46,5,0,68,0
+885,Sales & Marketing,Bachelor's,Female,1,38,6,0,46,0
+886,Sales & Marketing,Bachelor's,Male,2,33,7,0,51,0
+887,Operations,Bachelor's,Male,1,33,3,0,63,0
+888,Analytics,Below Secondary,Female,1,27,1,0,91,0
+889,Analytics,Bachelor's,Female,1,30,5,0,91,0
+890,Technology,Bachelor's,Male,2,28,3,0,82,0
+891,Procurement,Bachelor's,Male,1,44,5,0,72,0
+892,Operations,Bachelor's,Male,2,37,3,0,,0
+893,Operations,Below Secondary,Male,1,37,9,0,,0
+894,Technology,Bachelor's,Male,1,50,23,0,80,0
+895,Technology,Bachelor's,Female,1,36,5,0,78,1
+896,Sales & Marketing,Bachelor's,Female,1,28,2,0,47,0
+897,Analytics,Bachelor's,Female,3,28,5,0,80,0
+898,Finance,Bachelor's,Female,1,28,5,0,57,0
+899,Sales & Marketing,Bachelor's,Male,1,27,1,0,47,0
+900,Legal,Bachelor's,Male,1,30,1,0,63,0
+901,Operations,Bachelor's,Male,2,43,5,0,62,0
+902,Technology,Bachelor's,Female,1,49,16,0,78,0
+903,Sales & Marketing,Bachelor's,Female,1,35,10,0,49,0
+904,Sales & Marketing,Below Secondary,Male,1,26,1,0,51,0
+905,Sales & Marketing,Bachelor's,Male,1,33,8,0,48,0
+906,Operations,Master's & above,Female,1,35,9,0,65,0
+907,Technology,Master's & above,Female,1,39,10,0,81,0
+908,Technology,Master's & above,Male,1,34,3,0,81,0
+909,Analytics,Bachelor's,Male,1,36,5,0,79,0
+910,Technology,Bachelor's,Female,2,44,7,0,78,0
+911,Analytics,Bachelor's,Male,1,29,3,0,87,0
+912,Sales & Marketing,Master's & above,Male,1,47,11,0,50,0
+913,Technology,Bachelor's,Male,1,30,3,0,77,1
+914,Sales & Marketing,Bachelor's,Female,1,40,4,0,52,0
+915,Operations,Master's & above,Female,1,47,20,0,63,0
+916,Sales & Marketing,Bachelor's,Female,2,27,4,0,48,0
+917,Operations,Bachelor's,Female,1,46,8,0,57,0
+918,Sales & Marketing,Bachelor's,Female,1,55,5,0,53,0
+919,Sales & Marketing,Bachelor's,Female,1,40,10,0,48,0
+920,Sales & Marketing,Below Secondary,Female,1,40,4,0,52,0
+921,Technology,Bachelor's,Male,1,28,5,0,77,0
+922,Procurement,Bachelor's,Male,1,40,11,0,73,0
+923,Analytics,Bachelor's,Male,2,32,7,0,85,0
+924,Sales & Marketing,Master's & above,Male,1,53,14,0,51,0
+925,Sales & Marketing,Bachelor's,Male,1,33,4,0,50,0
+926,Analytics,Bachelor's,Male,3,28,1,0,78,0
+927,Sales & Marketing,Bachelor's,Male,1,45,12,0,47,0
+928,Operations,Bachelor's,Female,2,30,5,0,53,0
+929,Sales & Marketing,Bachelor's,Female,1,32,8,0,51,0
+930,Analytics,Bachelor's,Male,2,32,6,0,84,0
+931,Technology,Bachelor's,Male,1,41,5,0,75,0
+932,Procurement,Bachelor's,Female,1,46,16,0,74,0
+933,Procurement,Bachelor's,Male,1,28,1,0,72,0
+934,Analytics,Bachelor's,Male,1,39,9,0,81,0
+935,Operations,Master's & above,Female,1,37,4,0,56,0
+936,Procurement,Master's & above,Male,1,37,7,0,70,0
+937,Sales & Marketing,Bachelor's,Female,1,36,4,0,54,0
+938,Technology,Master's & above,Male,1,53,17,0,81,0
+939,Technology,Bachelor's,Female,1,30,3,0,77,0
+940,Legal,Bachelor's,Female,1,27,3,0,63,0
+941,Sales & Marketing,Master's & above,Female,1,36,2,0,,1
+942,Operations,Bachelor's,Male,1,47,17,0,55,0
+943,Operations,Master's & above,Female,1,41,13,0,62,0
+944,Operations,Below Secondary,Male,1,25,3,0,55,0
+945,Technology,Master's & above,Male,1,34,8,0,78,0
+946,Analytics,Bachelor's,Male,1,33,2,0,87,0
+947,Analytics,Bachelor's,Male,4,37,12,0,83,0
+948,Sales & Marketing,Below Secondary,Female,1,36,4,0,51,0
+949,Operations,Bachelor's,Female,1,40,5,0,54,0
+950,Operations,Bachelor's,Male,1,46,5,0,62,0
+951,HR,Below Secondary,Male,1,20,1,0,47,0
+952,Analytics,Bachelor's,Female,2,37,3,0,82,0
+953,Finance,Master's & above,Male,1,35,4,0,63,0
+954,Technology,Master's & above,Female,1,39,5,0,77,0
+955,R&D,Bachelor's,Male,1,35,7,0,86,0
+956,Operations,Bachelor's,Male,1,36,8,0,53,0
+957,Sales & Marketing,Bachelor's,Female,1,32,5,0,47,1
+958,Sales & Marketing,Bachelor's,Male,1,27,1,0,53,0
+959,Technology,Bachelor's,Female,1,26,2,0,78,0
+960,Sales & Marketing,Bachelor's,Male,1,32,5,0,50,0
+961,Analytics,Bachelor's,Male,1,26,2,0,82,0
+962,Technology,Master's & above,Male,1,41,7,0,75,0
+963,HR,Bachelor's,Female,1,29,5,0,50,0
+964,Operations,Bachelor's,Male,1,39,9,0,30,1
+965,Technology,Bachelor's,Male,1,26,1,0,79,0
+966,Technology,Bachelor's,Male,1,31,5,0,82,0
+967,Operations,Bachelor's,Male,2,29,5,0,58,0
+968,Operations,Bachelor's,Female,1,31,6,0,58,0
+969,Sales & Marketing,Master's & above,Female,3,44,7,0,40,0
+970,Technology,Master's & above,Female,1,39,9,0,78,0
+971,Sales & Marketing,Master's & above,Male,1,51,12,0,47,0
+972,Sales & Marketing,Bachelor's,Female,1,34,10,0,51,0
+973,Procurement,Bachelor's,Male,6,28,3,0,71,0
+974,Analytics,Bachelor's,Female,1,30,2,0,81,0
+975,Analytics,Bachelor's,Male,1,28,1,0,86,1
+976,Sales & Marketing,Bachelor's,Male,1,28,2,0,52,0
+977,Sales & Marketing,Bachelor's,Female,1,35,5,0,46,0
+978,Sales & Marketing,Bachelor's,Male,1,42,7,0,20,0
+979,Operations,Bachelor's,Male,1,57,14,0,90,0
+980,Operations,Bachelor's,Male,1,27,4,0,59,0
+981,Procurement,Bachelor's,Female,3,39,10,0,73,0
+982,Technology,Bachelor's,Male,1,36,7,0,79,0
+983,Sales & Marketing,Master's & above,Male,1,42,2,0,49,0
+984,Sales & Marketing,Bachelor's,Male,1,39,5,0,51,0
+985,Finance,Bachelor's,Male,1,52,8,0,59,0
+986,Sales & Marketing,Bachelor's,Male,1,29,2,0,55,1
+987,Procurement,Bachelor's,Female,2,31,7,0,67,0
+988,Operations,Bachelor's,Male,1,52,4,0,60,0
+989,Sales & Marketing,Bachelor's,Male,1,39,7,0,50,0
+990,Operations,Bachelor's,Male,1,31,2,0,58,0
+991,Sales & Marketing,Bachelor's,Female,1,36,13,0,52,0
+992,Sales & Marketing,Bachelor's,Male,1,30,5,0,46,0
+993,Operations,Bachelor's,Male,1,27,4,0,68,1
+994,Technology,Bachelor's,Male,1,24,2,0,77,0
+995,Technology,Master's & above,Male,1,41,8,1,93,1
+996,Procurement,Bachelor's,Female,1,50,4,0,69,0
+997,Sales & Marketing,Bachelor's,Male,3,45,16,0,51,0
+998,Sales & Marketing,Bachelor's,Female,1,45,7,0,49,0
+999,Operations,Bachelor's,Male,1,32,7,0,54,0
+1000,Procurement,Master's & above,Male,2,46,13,0,75,0
+1001,Sales & Marketing,Bachelor's,Female,1,30,2,0,51,0
+1002,Technology,Bachelor's,Male,1,31,4,0,80,0
+1003,Operations,Bachelor's,Male,3,31,7,0,60,0
+1004,Sales & Marketing,Bachelor's,Male,1,28,1,0,49,0
+1005,Sales & Marketing,Master's & above,Female,1,40,10,0,51,0
+1006,Procurement,Bachelor's,Male,1,31,5,0,69,0
+1007,HR,Bachelor's,Female,1,32,4,0,54,0
+1008,Procurement,Bachelor's,Male,1,33,6,0,72,0
+1009,Sales & Marketing,Master's & above,Female,1,35,7,0,50,0
+1010,HR,Bachelor's,Female,1,28,2,1,49,0
+1011,Sales & Marketing,Bachelor's,Male,2,32,5,0,47,0
+1012,Analytics,Bachelor's,Female,1,27,3,0,89,0
+1013,Technology,Bachelor's,Male,1,29,6,0,82,0
+1014,Analytics,Bachelor's,Female,2,30,7,0,88,0
+1015,Procurement,Master's & above,Male,1,45,16,0,87,1
+1016,Sales & Marketing,Master's & above,Female,1,40,11,0,53,0
+1017,Procurement,Bachelor's,Male,2,32,3,0,70,0
+1018,Sales & Marketing,Bachelor's,Female,2,29,2,0,48,0
+1019,Finance,Bachelor's,Female,1,39,11,0,59,0
+1020,Analytics,Bachelor's,Female,1,32,7,0,80,0
+1021,Operations,Master's & above,Male,2,57,7,0,58,0
+1022,Procurement,Bachelor's,Female,1,36,4,0,72,0
+1023,Sales & Marketing,Bachelor's,Male,1,34,5,0,46,0
+1024,HR,Master's & above,Female,1,33,7,0,50,0
+1025,Technology,Master's & above,Male,1,39,4,0,81,0
+1026,Finance,Bachelor's,Female,2,32,8,0,59,0
+1027,Technology,Bachelor's,Male,1,31,6,0,77,0
+1028,Sales & Marketing,Bachelor's,Male,1,31,7,0,52,0
+1029,Procurement,Bachelor's,Female,1,25,3,0,68,0
+1030,Sales & Marketing,Bachelor's,Male,1,43,4,0,50,0
+1031,Operations,Bachelor's,Male,1,25,1,0,65,0
+1032,Procurement,Master's & above,Female,1,50,16,0,68,0
+1033,Operations,Master's & above,Male,3,32,4,0,64,1
+1034,Finance,Bachelor's,Male,1,28,2,0,59,0
+1035,Sales & Marketing,Bachelor's,Male,1,32,5,0,51,0
+1036,Sales & Marketing,Bachelor's,Female,1,34,5,0,49,0
+1037,Operations,Bachelor's,Male,1,30,4,0,55,0
+1038,Operations,Master's & above,Female,1,33,6,0,74,1
+1039,Procurement,Master's & above,Male,2,46,19,0,70,0
+1040,Sales & Marketing,Bachelor's,Male,1,35,10,0,50,1
+1041,HR,Bachelor's,Female,1,29,5,0,50,0
+1042,Operations,Bachelor's,Male,1,39,9,0,30,1
+1043,Technology,Bachelor's,Male,1,26,1,0,79,0
+1044,Technology,Bachelor's,Male,1,31,5,0,82,0
+1045,Operations,Bachelor's,Male,2,29,5,0,58,0
+1046,Operations,Bachelor's,Female,1,31,6,0,58,0
+1047,Sales & Marketing,Master's & above,Female,3,44,7,0,40,0
+1048,Technology,Master's & above,Female,1,39,9,0,78,0
+1049,Sales & Marketing,Master's & above,Male,1,51,12,0,47,0
+1050,Sales & Marketing,Bachelor's,Female,1,34,10,0,51,0
+1051,Procurement,Bachelor's,Male,6,28,3,0,71,0
+1052,Analytics,Bachelor's,Female,1,30,2,0,81,0
+1053,Analytics,Bachelor's,Male,1,28,1,0,86,1
+1054,Sales & Marketing,Bachelor's,Male,1,28,2,0,52,0
+1055,Sales & Marketing,Bachelor's,Female,1,35,5,0,46,0
+1056,Sales & Marketing,Bachelor's,Male,1,42,7,0,20,0
+1057,Operations,Bachelor's,Male,1,57,14,0,90,0
+1058,Operations,Bachelor's,Male,1,27,4,0,59,0
+1059,Procurement,Bachelor's,Female,3,39,10,0,73,0
+1060,Technology,Bachelor's,Male,1,36,7,0,79,0
+1061,Sales & Marketing,Master's & above,Male,1,42,2,0,49,0
+1062,Sales & Marketing,Bachelor's,Male,1,39,5,0,51,0
+1063,Finance,Bachelor's,Male,1,52,8,0,59,0
+1064,Sales & Marketing,Bachelor's,Male,1,29,2,0,55,1
+1065,Procurement,Bachelor's,Female,2,31,7,0,67,0
+1066,Operations,Bachelor's,Male,1,52,4,0,60,0
+1067,Sales & Marketing,Bachelor's,Male,1,39,7,0,50,0
+1068,Operations,Bachelor's,Male,1,31,2,0,58,0
+1069,Sales & Marketing,Bachelor's,Female,1,36,13,0,52,0
+1070,Sales & Marketing,Bachelor's,Male,1,30,5,0,46,0
+1071,Operations,Bachelor's,Male,1,27,4,0,68,1
+1072,Technology,Bachelor's,Male,1,24,2,0,77,0
+1073,Technology,Master's & above,Male,1,41,8,1,93,1
+1074,Procurement,Bachelor's,Female,1,50,4,0,69,0
+1075,Sales & Marketing,Bachelor's,Male,3,45,16,0,51,0
+1076,Sales & Marketing,Bachelor's,Female,1,45,7,0,49,0
+1077,Operations,Bachelor's,Male,1,32,7,0,54,0
+1078,Procurement,Master's & above,Male,2,46,13,0,75,0
+1079,Sales & Marketing,Bachelor's,Female,1,30,2,0,51,0
+1080,Technology,Bachelor's,Male,1,31,4,0,80,0
+1081,Operations,Bachelor's,Male,3,31,7,0,60,0
+1082,Sales & Marketing,Bachelor's,Male,1,28,1,0,49,0
+1083,Sales & Marketing,Master's & above,Female,1,40,10,0,51,0
+1084,Procurement,Bachelor's,Male,1,31,5,0,69,0
+1085,HR,Bachelor's,Female,1,32,4,0,54,0
+1086,Procurement,Bachelor's,Male,1,33,6,0,72,0
+1087,Sales & Marketing,Master's & above,Female,1,35,7,0,50,0
+1088,HR,Bachelor's,Female,1,28,2,1,49,0
+1089,Sales & Marketing,Bachelor's,Male,2,32,5,0,47,0
+1090,Analytics,Bachelor's,Female,1,27,3,0,89,0
+1091,Technology,Bachelor's,Male,1,29,6,0,82,0
+1092,Analytics,Bachelor's,Female,2,30,7,0,88,0
+1093,Procurement,Master's & above,Male,1,45,16,0,87,1
+1094,Sales & Marketing,Master's & above,Female,1,40,11,0,53,0
+1095,Procurement,Bachelor's,Male,2,32,3,0,70,0
+1096,Sales & Marketing,Bachelor's,Female,2,29,2,0,48,0
+1097,Finance,Bachelor's,Female,1,39,11,0,59,0
+1098,Analytics,Bachelor's,Female,1,32,7,0,80,0
+1099,Operations,Master's & above,Male,2,57,7,0,58,0
+2000,Procurement,Bachelor's,Female,1,36,4,0,72,0
+2001,Sales & Marketing,Bachelor's,Male,1,34,5,0,46,0
